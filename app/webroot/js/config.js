@@ -1,5 +1,5 @@
 (function () {
     'use strict';
-    angular.module('adminApp')
+    angular.module('demoApp')
         .value('config', {apiUrl: 'http://localhost'})
 }());

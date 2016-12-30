@@ -34,6 +34,7 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
 		echo $this->fetch('css');
 		echo $this->fetch('script');
 	?>
+	<link rel="stylesheet" type="text/css" href="css/demo.css">
 </head>
 <body>
 	<div id="container">
